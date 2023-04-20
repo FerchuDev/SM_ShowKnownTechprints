@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<LanguageData>
+
+	<ShowKnownTechprints.Tooltip>{0} Techprints of {1} applied for the research project "{2}"</ShowKnownTechprints.Tooltip>
+	
+</LanguageData>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ModMetaData>
+  <name>Show Known Techprints</name>
+  <author>SpaceMoth</author>
+  <url></url>
+  <packageId>Spacemoth.ShowKnownTechprints</packageId>
+  <description>This mod adds a new icon next to all techprints to indicate if the techprint has been applied or not.
+No more will you buy duplicate techprints or sell the ones you need without realising!
+
+Hovering over the new icon will also tell you what you will unlock by researching and how many tech prints are required.
+</description>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+    <modDependencies>
+		<li>
+		  <packageId>Ludeon.RimWorld.Royalty</packageId>
+		  <displayName>Royalty</displayName>
+		</li>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<downloadUrl>https://steamcommunity.com/workshop/filedetails/?id=2009463077</downloadUrl>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+		</li>
+    </modDependencies>
+    <loadAfter>
+        <li>Ludeon.RimWorld.Royalty</li>
+        <li>brrainz.harmony</li>
+    </loadAfter>
+</ModMetaData>
