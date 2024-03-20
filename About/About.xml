@@ -11,6 +11,7 @@ Hovering over the new icon will also tell you what you will unlock by researchin
 </description>
   <supportedVersions>
     <li>1.4</li>
+    <li>1.5</li>
   </supportedVersions>
     <modDependencies>
 		<li>
